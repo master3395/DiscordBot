@@ -39,7 +39,7 @@
 		<dependency>
     		<groupId>org.hibernate</groupId>
     		<artifactId>hibernate-validator</artifactId>
-    		<version>5.2.4.Final</version><!--$NO-MVN-MAN-VER$-->
+    		<version>6.2.0.Final</version><!--$NO-MVN-MAN-VER$-->
 		</dependency>
 		
 		<dependency>
@@ -52,7 +52,7 @@
   			<!-- jsoup HTML parser library @ https://jsoup.org/ -->
   			<groupId>org.jsoup</groupId>
   			<artifactId>jsoup</artifactId>
-  			<version>1.10.3</version>
+  			<version>1.23.2</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-text -->
